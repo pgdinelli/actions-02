@@ -19,3 +19,4 @@ python build.py              # gera dist/index.html
 `receitas.py` também calcula a quantidade de um ingrediente para várias
 receitas: três receitas de pão de queijo, com 500 g de polvilho cada, pedem
 1500 g. Os exercícios ficam no [site do curso](https://fsilva-alt.github.io/devops-ghactions/).
+TESTE
